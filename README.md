@@ -1,2 +1,2 @@
 # hello-world
-Java Hello World
+Ein kleines Einstiegs-"Projekt", um GitHub zu verstehen.
